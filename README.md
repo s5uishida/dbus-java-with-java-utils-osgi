@@ -1,7 +1,7 @@
 # dbus-java-with-java-utils-osgi
 
 This is the code of the Eclipse plug-in project put together to use the following dbus-java and java-utils in the OSGi framework. Java source codes have not changed.
-- [dbus-java v3.0.2](https://github.com/hypfvieh/dbus-java/tree/dbus-java-parent-3.0.2)
+- [dbus-java 3.0.2](https://github.com/hypfvieh/dbus-java/tree/dbus-java-parent-3.0.2)
 - [java-utils 1.0.5](https://github.com/hypfvieh/java-utils/tree/1.0.5)
 
 The reason for this integration is that if the bundle containing the JNI library for Unix Domain Socket and the bundle for reading the JNI library were separated, they could not be used on the OSGi framework. I tried to deal with this trouble using `Require-Bundle`, but a cycle of dependencies occurred. So, for convenience, I put it together.
