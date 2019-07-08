@@ -18,4 +18,4 @@ I use this with the following bundles.
 The built bundle file is placed below. You need Java 8 or higher.
 - build/
 
-Finally, I would like to thank the authors of the very useful codes, and everyone who has been committed.
+Finally, I would like to thank the authors of the very useful codes, and everyone who has committed.
