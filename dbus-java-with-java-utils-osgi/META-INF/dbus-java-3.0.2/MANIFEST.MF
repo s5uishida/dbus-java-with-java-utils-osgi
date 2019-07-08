@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: dbus-java
+Implementation-Version: 3.0.2
+Built-By: maniac
+Implementation-Vendor-Id: com.github.hypfvieh
+Created-By: Apache Maven 3.6.0
+Build-Jdk: 1.8.0_121
+Implementation-URL: https://github.com/hypfvieh/dbus-java/dbus-java
+

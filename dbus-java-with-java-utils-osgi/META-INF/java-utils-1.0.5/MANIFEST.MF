@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: java-utils
+Implementation-Version: 1.0.5
+Built-By: maniac
+Implementation-Vendor-Id: com.github.hypfvieh
+Created-By: Apache Maven 3.5.0
+Build-Jdk: 1.8.0_121
+Implementation-URL: https://github.com/hypfvieh/java-utils
+
