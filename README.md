@@ -13,9 +13,7 @@ Each license files are located below.
 I think that this repository will not be necessary if [jnr-unixsocket](https://github.com/jnr/jnr-unixsocket) is used in place of the Unix Domain Socket JNI library planned for dbus-java in the future.
 
 I use this with the following bundles.
-- [Commons Lang 3.9](https://commons.apache.org/proper/commons-lang/)
 - [SLF4J 1.7.26](https://www.slf4j.org/)
-- [Apache Felix 6.0.3 (OSGi framework)](https://felix.apache.org/)
 
 The built bundle file is placed below. You need Java 8 or higher.
 - build/
